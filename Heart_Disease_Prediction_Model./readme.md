@@ -103,6 +103,8 @@ Heart-Disease-Prediction-Model/
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # Project documentation
 └── LICENSE                        # License information (optional)
+```
+
 Contributing
 If you'd like to contribute to this project, feel free to fork the repository, create a new branch, and submit a pull request. All contributions are welcome!
 
